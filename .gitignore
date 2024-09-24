@@ -1,0 +1,75 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Files
+.vs/
+*.sln.docstates
+
+# Rider Files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+!**/packages/build/
+!**/packages/build/**/tools/
+
+# DotNet CLI
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.mdb
+*.pdb
+*.ipch/
+*.tlog/
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider project files
+.idea/
+
+# IIS Express
+.IISExpress/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Visual Studio Code
+.vscode/
+
+# Coverage Reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Test Results
+TestResults/
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore config files
